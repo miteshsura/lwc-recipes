@@ -28,11 +28,11 @@
     },
     "devDependencies": {
         "@salesforce/eslint-config-lwc": "^0.4.0",
-        "@salesforce/sfdx-lwc-jest": "^0.6.2",
-        "eslint": "^5.16.0",
-        "husky": "^3.1.0",
+        "@salesforce/sfdx-lwc-jest": "^7.1.2",
+        "eslint": "^9.39.1",
+        "husky": "^9.1.7",
         "jest-canvas-mock": "^2.2.0",
-        "lint-staged": "^9.5.0",
+        "lint-staged": "^16.2.6",
         "prettier": "^1.18",
         "prettier-plugin-apex": "^1.0.0",
         "semver": "^6.3.0"
